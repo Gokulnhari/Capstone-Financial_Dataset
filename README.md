@@ -8,7 +8,7 @@ This Power BI project provides an in-depth analysis of sales data across multipl
 
 
 ### Segment Wise Report
-![Segment Wise Report Preview](<img width="960" alt="Capstone2" src="https://github.com/user-attachments/assets/855ccf8d-1a24-4eae-9bd0-43c823576b05">)
+![Segment Wise Report Preview](https://github.com/Gokulnhari/Capstone-Financial_Dataset/blob/main/Screenshots%20on%20capstone/Capstone2.png)
 
 
 ### Country Wise Report
