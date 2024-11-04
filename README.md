@@ -4,7 +4,7 @@
 
 This Power BI project provides an in-depth analysis of sales data across multiple dimensions such as country, segment, and year. The report is divided into three pages, each offering unique insights through a variety of visualizations and interactive elements.
 ### Dashboard Page
-![Dashboard Preview](https://drive.google.com/file/d/1q40Q6xsoMYtbcINuShBgTsvbBgbd5id7/view?usp=drive_link)
+![Dashboard Preview](https://github.com/Gokulnhari/Capstone-Financial_Dataset/blob/main/Screenshots%20on%20capstone/Capstone1.png)
 
 
 ### Segment Wise Report
