@@ -12,7 +12,7 @@ This Power BI project provides an in-depth analysis of sales data across multipl
 
 
 ### Country Wise Report
-![Country Wise Report Preview](<img width="960" alt="Capstone3" src="https://github.com/user-attachments/assets/351ee48a-f34d-431c-96d2-f0f932da1c36">)
+![Country Wise Report Preview](https://github.com/Gokulnhari/Capstone-Financial_Dataset/blob/main/Screenshots%20on%20capstone/Capstone3.png)
 
 ## Pages and Features
 
